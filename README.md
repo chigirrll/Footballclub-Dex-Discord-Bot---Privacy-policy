@@ -1,6 +1,6 @@
 # Footballclub Dex Discord Bot - Privacy policy
 
-The following document explains what data is collected by FC Dex.
+The following document explains what data is collected by Footballclub Dex.
 
 ### Glossary
 
@@ -8,8 +8,8 @@ The following document explains what data is collected by FC Dex.
 - "Data" refers to data stored by an individual instance, including personal data
 - "Bot" or "instance" refers to the copy of the code running the Discord application, with its own data
 - "Collectible" refers to any object that is meant to be collected, such as countryballs or other future means like virtual currency
-- "Application owners" refers to the owners of the Discord application, meaning the one with any form of access to the application's authentication method and data belonging to the instance. This is usually referred to as the "Team FC Dex" or "FC Dex Team".
-- "FC Dex moderation team" or "moderation team" refers to the owners of the Discord application and the users they may chose to be part of the moderation team. You may find a list of these users on the [Discord server](https://discord.gg/4yBPU2UwWA).
+- "Application owners" refers to the owners of the Discord application, meaning the one with any form of access to the application's authentication method and data belonging to the instance. This is usually referred to as the "Team Footballclub Dex" or "Footballclub Dex Team".
+- "Footballclub Dex moderation team" or "moderation team" refers to the owners of the Discord application and the users they may chose to be part of the moderation team. You may find a list of these users on the [Discord server](https://discord.gg/4yBPU2UwWA).
 
 ## Open source
 
@@ -82,7 +82,7 @@ For a limited-time event, Footballclub Dex may read the voice messages in the fo
 - The message is replying to the bot with a spawned collectible
 - The user is not blacklisted
 - The message is less than 5 seconds long
-If all the conditions above are true, the message will be uploaded to Google API for text recognition. The data is not saved by FC Dex or Google afterwards.
+If all the conditions above are true, the message will be uploaded to Google API for text recognition. The data is not saved by Footballclub Dex or Google afterwards.
 
 You may read more about Google's usage of the data. FOOTBALLCLUB DEX DID NOT OPT INTO LOGGING.\
 https://cloud.google.com/speech-to-text/docs/data-usage-faq
